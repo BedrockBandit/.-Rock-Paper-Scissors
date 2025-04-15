@@ -43,12 +43,6 @@ README.md          # (this file)
 
 ---
 
-## 🚀 To-Do / Ideas for Expansion
 
-- Add sound effects for win/loss.
-- Use images for Rock, Paper, and Scissors.
-- Add a “Best of 5” or “First to 3” mode.
-- Create a leaderboard or high score.
-- Add animations with `Canvas` or other UI polish.
 
 just for fun and practice with Python & GUIs!
