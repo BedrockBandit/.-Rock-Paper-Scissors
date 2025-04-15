@@ -51,8 +51,4 @@ README.md          # (this file)
 - Create a leaderboard or high score.
 - Add animations with `Canvas` or other UI polish.
 
----
-
-## 🧑‍💻 Author
-
-Built by [Your Name] — just for fun and practice with Python & GUIs!
+just for fun and practice with Python & GUIs!
